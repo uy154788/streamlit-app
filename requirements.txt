@@ -1,0 +1,8 @@
+Flask==3.0.3
+opencv-python==4.8.1.78
+deepface==0.0.91
+tensorflow==2.15.1
+numpy==1.26.0
+tf_keras==2.15.1
+gunicorn==22.0.0
+pillow==10.2.0
